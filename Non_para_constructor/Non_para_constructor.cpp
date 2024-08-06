@@ -30,8 +30,9 @@ public:
 
 int main(void)
 {
-	teacher Teacher_1; //this is non parameterized constructor
-	Teacher_1.name 		= "Mukul Sharma";
+	teacher Teacher_1; //this is non parameterized constructor will be called & will assign default values to attributes.
+	//Assigning a value to the attribute.
+	Teacher_1.name 		= "Mukul Sharma"; 
 	Teacher_1.subject 	= "Security concepts";
 	Teacher_1.depart 	= "DITTIS";
 
