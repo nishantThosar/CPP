@@ -17,7 +17,7 @@ public:
 	teacher(string name, string subject, string department, double salary=1500)
 	{
 		this->name = name;
-		this->subject = subject;
+		(*this).subject = subject; //legal
 		this->department = department;
 		this->salary = salary;
 	}//para constructor ends
