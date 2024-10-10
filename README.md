@@ -1,8 +1,9 @@
-I'am referring Apna college, link to the video is: https://youtu.be/mlIUKyZIUUU?si=FqpuNhYpwy_QuatT
+
 
 
 # 💫 About Me:
 I am currently working on C programming language, interested to explore the embedded system world.<br>Already worked in Automotive domain currently exploring the R&D.
+I'am referring Apna college for C++ object oriented programming, link to the video is: https://youtu.be/mlIUKyZIUUU?si=FqpuNhYpwy_QuatT
 
 
 # 💻 Tech Stack:
